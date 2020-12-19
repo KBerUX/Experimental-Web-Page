@@ -3,8 +3,9 @@
 body {
   background-image: linear-gradient(90deg, lavenderblush, #caeefe, #dacbfe);
   text-align: center;
-  font-size: 25px;
+  font-size: 50px;
 }
+
 .title {
   text-align: center;
   color: white;
